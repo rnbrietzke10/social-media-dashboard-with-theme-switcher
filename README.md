@@ -12,7 +12,6 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-  - [Author](#author)
 
 ### The challenge
 
@@ -27,25 +26,17 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Social Media Dashboard with Theme Switcher](https://social-media-dash-theme-switch-alejan.netlify.app)
+- Live Site URL: [Social Media Dashboard with Theme Switcher](https://social-media-dashboard-femc.netlify.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Desktop-first workflow
-- JavaScript (ES6)
+- React
+- Typescript
+- Styled Componentes
+- Vite
 
 ### What I learned
 
-This challenge helped me learn more on layout building using CSS Grid and changing the style of the whole page through a theme switch.
-
-## Author
-
-- Frontend Mentor - [@Cavalry2010](https://www.frontendmentor.io/profile/Cavalry2010)
-- Twitter - [@AlPerdomoMC](https://www.twitter.com/AlPerdomoMC)
-- GitHub - [@Cavalry2010](https://www.github.com/Cavalry2010)
+This challenge helped me learn about typescript. I also got the chance to practice using styled components.
