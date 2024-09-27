@@ -9,7 +9,6 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
 
@@ -27,8 +26,6 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Social Media Dashboard with Theme Switcher](https://social-media-dashboard-femc.netlify.app/)
-
-## My process
 
 ### Built with
 

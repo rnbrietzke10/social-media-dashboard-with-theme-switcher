@@ -33,7 +33,7 @@ export const Attribution: React.FC<AttributionProps> = () => {
         Frontend Mentor
       </Link>
       . Coded by{' '}
-      <Link scheme={theme} href='https://github.com/rnbrietzke10'>
+      <Link scheme={theme} href='https://github.com'>
         Rebecca Brietzke
       </Link>
       .
